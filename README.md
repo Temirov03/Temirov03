@@ -6,9 +6,7 @@
     <head>
         <title>Hi I'm Nurbek</title>
         <h1>Hi I'm Nurbek</h1>
-        <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/Python-01%20%282%29.png?itok=TEVIQBQo"
-             width="150"/>
-        <img src="https://www.sqlfr.com/wp-content/uploads/2022/04/sql.jpg"
+        <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/Python-01%20%282%29.png?itok=TEVIQBQo"width="150"/><img src="https://www.sqlfr.com/wp-content/uploads/2022/04/sql.jpg"
              width="140"/>
         <img src = "https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png"
              width="150"/>
