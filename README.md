@@ -1,1 +1,2 @@
-Hi I'm Nurbek
+I'm Nurbek Temirov
+<img scr="👋">
