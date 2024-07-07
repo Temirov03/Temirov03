@@ -3,7 +3,7 @@
 
 
 
-- 🌱 В настоящее время я изучаю **Python,PostrgeSQL,Git,GitHub,Django,Django_Rest_Framework**
+- 🌱 В настоящее время я изучаю **Python,PostrgeSQL,Git,GitHub,Django,Django_Rest_Framework, FastApi, Vue, VueJs**
 
 <h3 align="left">Свяжитесь со мной:</h3><p align="left"></p><h3 align="left">Languages and Tools:</h3>
 
